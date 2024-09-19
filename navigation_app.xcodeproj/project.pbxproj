@@ -16,6 +16,8 @@
 		6459AC832C9BE41B0056F47A /* navigation_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6459AC822C9BE41B0056F47A /* navigation_appTests.swift */; };
 		6459AC8D2C9BE41B0056F47A /* navigation_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6459AC8C2C9BE41B0056F47A /* navigation_appUITests.swift */; };
 		6459AC8F2C9BE41B0056F47A /* navigation_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6459AC8E2C9BE41B0056F47A /* navigation_appUITestsLaunchTests.swift */; };
+		6459AC9C2C9C24120056F47A /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6459AC9B2C9C24120056F47A /* ProfileViewController.swift */; };
+		6459AC9E2C9C24B10056F47A /* EditProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6459AC9D2C9C24B10056F47A /* EditProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		6459AC882C9BE41B0056F47A /* navigation_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = navigation_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6459AC8C2C9BE41B0056F47A /* navigation_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navigation_appUITests.swift; sourceTree = "<group>"; };
 		6459AC8E2C9BE41B0056F47A /* navigation_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = navigation_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6459AC9B2C9C24120056F47A /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		6459AC9D2C9C24B10056F47A /* EditProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				6459AC742C9BE41A0056F47A /* Assets.xcassets */,
 				6459AC762C9BE41A0056F47A /* LaunchScreen.storyboard */,
 				6459AC792C9BE41A0056F47A /* Info.plist */,
+				6459AC9B2C9C24120056F47A /* ProfileViewController.swift */,
+				6459AC9D2C9C24B10056F47A /* EditProfileViewController.swift */,
 			);
 			path = navigation_app;
 			sourceTree = "<group>";
@@ -260,6 +266,8 @@
 			files = (
 				6459AC702C9BE4190056F47A /* ViewController.swift in Sources */,
 				6459AC6C2C9BE4190056F47A /* AppDelegate.swift in Sources */,
+				6459AC9C2C9C24120056F47A /* ProfileViewController.swift in Sources */,
+				6459AC9E2C9C24B10056F47A /* EditProfileViewController.swift in Sources */,
 				6459AC6E2C9BE4190056F47A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
